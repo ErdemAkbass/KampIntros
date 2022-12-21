@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "example", "example\example.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "müşteritakip", "müşteritakip\müşteritakip.csproj", "{907CD92B-8233-4286-AE04-2C8EA7B6234D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{5EB7607C-3115-4297-8092-73CA4F383697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{5EB7607C-3115-4297-8092-73CA4F383697}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameManager", "GameManager\GameManager.csproj", "{3998076E-8015-4567-B59B-224B1E77592C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5EB7607C-3115-4297-8092-73CA4F383697}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EB7607C-3115-4297-8092-73CA4F383697}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EB7607C-3115-4297-8092-73CA4F383697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3998076E-8015-4567-B59B-224B1E77592C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3998076E-8015-4567-B59B-224B1E77592C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3998076E-8015-4567-B59B-224B1E77592C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3998076E-8015-4567-B59B-224B1E77592C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

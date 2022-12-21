@@ -18,4 +18,21 @@ namespace MyDictionary
             Console.WriteLine(dictionary.Count);
         }
     }
+         
+    class MyList<T>
+    {
+        MyList<string> sehirler = new MyList<string>();
+
+        public void Add(T item)
+        {
+
+        }
+      
+    
+     }
+    
+    
+    
+   
+
 }
